@@ -1,0 +1,1 @@
+class CustomAuthException(message: String) : Exception(message)
